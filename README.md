@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenidos
 
-You can use the [editor on GitHub](https://github.com/BMMartinez/hola-mundo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+Este es un ejemplo de #AdoptaUnCorrupto
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
